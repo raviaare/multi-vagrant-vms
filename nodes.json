@@ -1,9 +1,9 @@
 {
   "nodes": {
-    "docker.example.com": {
+    "gitlab.example.com": {
       ":ip": "192.168.32.5",
       "ports": [],
-      ":memory": 1024,
+      ":memory": 2048,
       ":bootstrap": "bootstrap.sh"
     },
     "node01.example.com": {
