@@ -3,7 +3,7 @@
     "gitlab.example.com": {
       ":ip": "192.168.32.5",
       "ports": [],
-      ":memory": 2048,
+      ":memory": 3072,
       ":bootstrap": "bootstrap.sh"
     },
     "node01.example.com": {
